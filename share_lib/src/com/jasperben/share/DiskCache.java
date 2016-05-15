@@ -1,4 +1,4 @@
-package com.luke.share;
+package com.jasperben.share;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -14,7 +14,7 @@ import java.io.OutputStream;
 
 /**
  * 硬盘缓存
- * @author Luke
+ * @author Jasperben
  *
  */
 public class DiskCache implements Cache {

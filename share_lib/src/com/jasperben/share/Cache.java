@@ -1,10 +1,10 @@
-package com.luke.share;
+package com.jasperben.share;
 
 import android.graphics.Bitmap;
 
 /**
  * 缓存接口
- * @author Luke
+ * @author Jasperben
  *
  */
 public interface Cache {

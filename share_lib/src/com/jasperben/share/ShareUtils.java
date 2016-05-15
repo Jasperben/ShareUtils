@@ -1,4 +1,4 @@
-package com.luke.share;/**
+package com.jasperben.share;/**
  * Created by yjx on 15/5/22.
  */
 
@@ -8,7 +8,7 @@ import android.os.AsyncTask;
 
 /**
  * 工具类
- * @author Luke
+ * @author Jasperben
  *
  */
 @SuppressLint("UseValueOf")
@@ -319,7 +319,7 @@ public final class ShareUtils {
 
 
     /**
-     * 清楚数据
+     * 清除数据
      */
     public static void clearData() {
         ShareUtils.memoryCache.clear();
@@ -328,7 +328,7 @@ public final class ShareUtils {
     }
 
     /**
-     * 清除指定的数据
+     * 清除指定key的数据
      *
      * @param key 键
      */

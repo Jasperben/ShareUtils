@@ -1,4 +1,4 @@
-package com.luke.share;
+package com.jasperben.share;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedWriter;

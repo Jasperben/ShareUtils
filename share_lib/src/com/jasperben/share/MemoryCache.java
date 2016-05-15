@@ -1,4 +1,4 @@
-package com.luke.share;/**
+package com.jasperben.share;/**
  * Created by yjx on 15/5/22.
  */
 
@@ -9,9 +9,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
 
 /**
- * User: YJX
- * Date: 2015-05-22
- * Time: 15:09
+ * @author Jasperben
  * 内存缓存
  */
 @SuppressLint("UseValueOf")
