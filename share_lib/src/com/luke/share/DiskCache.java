@@ -1,4 +1,4 @@
-package com.luke.sharedpreferences;
+package com.luke.share;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;

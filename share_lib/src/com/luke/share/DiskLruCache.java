@@ -1,4 +1,4 @@
-package com.luke.sharedpreferences;
+package com.luke.share;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedWriter;

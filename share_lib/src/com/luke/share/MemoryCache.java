@@ -1,4 +1,4 @@
-package com.luke.sharedpreferences;/**
+package com.luke.share;/**
  * Created by yjx on 15/5/22.
  */
 
